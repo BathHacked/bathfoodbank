@@ -35,10 +35,11 @@ others but this is simple to use and works on mobile. Idea is to have quick, eas
 
 This app then just grabs that list and presents it on a simple web page and as a JSON object.
 
-Next steps are to contact the foodbank and see if they're interested in this. Minimal time wasted if not!
 
-## Ideas
+## Ideas & Next Steps
+
+Next steps are to contact the foodbank and see if they're interested in exploring this further. Minimal time wasted if not!
 
 * Twitter bot that allows you to ask for a reminder on your usual shopping day
 * Twitter bot can also be used as means to broadcast special requests (e.g. foodbank currently looking for volunteers)
-* SMS service to do the same
+* SMS service to do the same? (Approx 5p per SMS)
