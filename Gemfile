@@ -4,6 +4,7 @@ ruby "2.2.0"
 gem 'sinatra'
 gem 'json'
 gem 'dotenv'
+gem 'nokogiri'
 
 gem 'sinatra-static-assets'
 gem 'sinatra-contrib'
